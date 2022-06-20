@@ -1,0 +1,29 @@
+C:\Users\Валерий\source\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\bin\Debug\TerVer(2 raschetka).exe.config
+C:\Users\Валерий\source\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\bin\Debug\TerVer(2 raschetka).exe
+C:\Users\Валерий\source\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\bin\Debug\TerVer(2 raschetka).pdb
+C:\Users\Валерий\source\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer(2 raschetka).csprojAssemblyReference.cache
+C:\Users\Валерий\source\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer_2_raschetka_.Properties.Resources.resources
+C:\Users\Валерий\source\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer(2 raschetka).csproj.GenerateResource.cache
+C:\Users\Валерий\source\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer(2 raschetka).csproj.CoreCompileInputs.cache
+C:\Users\Валерий\source\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer(2 raschetka).exe
+C:\Users\Валерий\source\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer(2 raschetka).pdb
+C:\Users\Валерий\source\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer_2_raschetka_.Form1.resources
+C:\Users\Валерий\source\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer_2_raschetka_.Form2.resources
+C:\Users\Валерий\source\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer_2_raschetka_.Form3.resources
+C:\Users\Валерий\source\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer_2_raschetka_.Form4.resources
+C:\Users\Валерий\source\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer_2_raschetka_.Form5.resources
+D:\Проекты VS\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\bin\Debug\TerVer(2 raschetka).exe.config
+D:\Проекты VS\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\bin\Debug\TerVer(2 raschetka).exe
+D:\Проекты VS\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\bin\Debug\TerVer(2 raschetka).pdb
+D:\Проекты VS\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer(2 raschetka).csproj.AssemblyReference.cache
+D:\Проекты VS\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer(2 raschetka).csproj.SuggestedBindingRedirects.cache
+D:\Проекты VS\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer_2_raschetka_.Form1.resources
+D:\Проекты VS\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer_2_raschetka_.Form2.resources
+D:\Проекты VS\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer_2_raschetka_.Form3.resources
+D:\Проекты VS\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer_2_raschetka_.Form4.resources
+D:\Проекты VS\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer_2_raschetka_.Form5.resources
+D:\Проекты VS\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer_2_raschetka_.Properties.Resources.resources
+D:\Проекты VS\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer(2 raschetka).csproj.GenerateResource.cache
+D:\Проекты VS\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer(2 raschetka).csproj.CoreCompileInputs.cache
+D:\Проекты VS\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer(2 raschetka).exe
+D:\Проекты VS\repos\TerVer(2 raschetka)\TerVer(2 raschetka)\obj\Debug\TerVer(2 raschetka).pdb
